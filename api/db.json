@@ -1,0 +1,77 @@
+{
+  "seller": [
+    {
+      "name": "krishna",
+      "password": "123",
+      "email": "krishnakn140@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "password": "123",
+      "email": "peter@gmail.com",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Apple 14",
+      "price": "100000",
+      "color": "Silver",
+      "category": "Mobile",
+      "description": "Good product",
+      "image": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-s22/buy/S22_KV_4_MO.jpg",
+      "id": 2
+    },
+    {
+      "name": "Samsung",
+      "price": "23000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "Good product",
+      "image": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-s22/buy/S22_KV_4_MO.jpg",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "12",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "12",
+      "id": 2
+    },
+    {
+      "name": "hi",
+      "email": "krishnakn140@gmail.com",
+      "password": "12",
+      "id": 3
+    },
+    {
+      "name": "tt",
+      "email": "anil.ks2905@gmail.com",
+      "password": "12",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "name": "Apple 14",
+      "price": "100000",
+      "color": "Silver",
+      "category": "Mobile",
+      "description": "Good product",
+      "image": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-s22/buy/S22_KV_4_MO.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 3,
+      "id": 1
+    }
+  ],
+  "orders": []
+}
